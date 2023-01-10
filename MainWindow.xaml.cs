@@ -25,5 +25,10 @@ namespace Prog_124_W23_Lecture_3
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            new Data_Display().Show(); 
+        }
     }
 }
