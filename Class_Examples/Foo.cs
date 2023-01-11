@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Prog_124_W23_Lecture_3
+namespace Prog_124_W23_Lecture_3.Class_Examples
 {
     public class Foo
     {
